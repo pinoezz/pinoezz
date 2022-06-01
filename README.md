@@ -6,4 +6,4 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/pinoezz?affiliations=OWNER&color=aqua&style=for-the-badge)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/pinoezz?color=aqua&style=for-the-badge)
 
-[![Spotify](https://novatorem-pokurt.vercel.app/api/spotify)](https://open.spotify.com/user/31w3ae43m2pyieexxpu45tpypbd4)
+[![Spotify](https://novatorem-pinoezz.vercel.app/api/spotify)](https://open.spotify.com/user/31w3ae43m2pyieexxpu45tpypbd4)

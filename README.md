@@ -1,3 +1,5 @@
+# Github Stats
+
 ![pinoezz's github stats](https://github-readme-stats.vercel.app/api?username=pinoezz&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinoezz&layout=compact)](https://github.com/pinoezz/github-readme-stats)
